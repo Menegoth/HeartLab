@@ -1,0 +1,3 @@
+﻿  heart.c
+C:\Users\anton\source\repos\HeartLab\heart.c(35,8): warning C4013:  'system' undefined; assuming extern returning int
+  HeartLab.vcxproj -> C:\Users\anton\source\repos\HeartLab\Debug\HeartLab.exe
